@@ -8,3 +8,4 @@ class Point {
     return '(' + this.x + ', ' + this.y + ')';
   }
 }
+print("我是小陈")
